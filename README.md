@@ -16,5 +16,5 @@
 </div><br/>
 "O saber não ocupa lugar". <br/><br/>
 
-Formador/Docente Informática e de Electrónica.
+Formador/Docente Informática e de Electrónica.<br/>
 Licenciado em Engenharia Electrotécnica e de Computadores.
