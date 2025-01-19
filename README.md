@@ -14,4 +14,7 @@
 <img alt="Excel" align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img alt="C" align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
-Professor de Eletrónica e Informática.
+"O saber não ocupa lugar". <br/>
+
+Formador/Docente Informática e de Electrónica.
+Licenciado em Engenharia Electrotécnica e de Computadores.
